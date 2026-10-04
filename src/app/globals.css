@@ -1,0 +1,19 @@
+/* SANDBOX STAND-IN, do not copy to real repo */
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #0f1b2d;
+  --color-muted: #5b6577;
+  --color-navy: #1f3a68;
+  --color-navy-dark: #12264a;
+  --color-sun-50: #fffaeb;
+  --color-sun-100: #fdf0c4;
+  --color-line: #e7e2d6;
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: #fdfcf8;
+  color: var(--color-ink);
+}
